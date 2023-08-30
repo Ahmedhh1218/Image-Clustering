@@ -17,3 +17,11 @@ The project is divided into the following modules:
 ## Dataset
 
 For training and testing, we have chosen an RGB image dataset with a minimum of 100 classes, ensuring a diverse and challenging dataset for evaluation.
+
+## Getting Started
+
+- Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/Ahmedhh1218/Image-Clustering.git
+cd Image-Clustering
